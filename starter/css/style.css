@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.navbar-toggler{
+    margin-right: 30px;
+   
+}
+
+
+.navbar-nav ,.form-inline{
+    margin-left: 50px;
+}
+
+
+.jumbotron{
+    margin:100px;
+    text-align: center;
+    padding: 100px;
+}
+
+.display-4{
+    font-size: 100px;
+}
+
+
+
+h2 ,.expertise{
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 0;
+}
+.card-group{
+   
+    margin-bottom: 100px;
+    padding: 100px;
+}
+
+.card-body{
+    height: 200px;
+}
+
+.test{
+    display: inline-block;
+}
+
+.expertise,.card-group,.card-body{
+    background-color: #224a54;
+}
+
+.experience-list{
+    margin: 50px;
+}
+
+/* Education*/
+
+.educ{
+    padding-bottom: 50px;
+}
+
+.list-of-education{
+    text-align: center;
+}
+
+.contact{
+padding: 4%;
+height: 400px;
+}
+.col-md-3{
+background: #ff9b00;
+padding: 4%;
+border-top-left-radius: 0.5rem;
+border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+margin-top:10%;
+}
+.contact-info img{
+margin-bottom: 15%;
+}
+.contact-info h2{
+margin-bottom: 10%;
+}
+.col-md-9{
+background: #fff;
+padding: 3%;
+border-top-right-radius: 0.5rem;
+border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+font-weight:600;
+}
+.contact-form button{
+background: #25274d;
+color: #fff;
+font-weight: 600;
+width: 20%;
+}
+.contact-form button:focus{
+box-shadow:none;
+}
+
+.educ{
+    margin: 30px;
+    padding: 30px;
+}
+
+.list-of-education{
+    background-color: #ff9b00;
+}
+
+#contact-form{
+    margin-bottom: 70px;
+}
+
+#jd-contact{
+    margin-top: 30px;
+}
+
+  /* CSS styles for tablets */
+  @media only screen and (max-width: 768px) {
+    body {
+      
+      font-size: 16px;
+    }
+  }
+
+  /* CSS styles for mobile devices */
+  @media only screen and (max-width: 480px) {
+    body {
+      
+      font-size: 14px;
+    }
+  }
+
+
+
+
+
+  
+
+
